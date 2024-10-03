@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @R0hit-hash
-- 👀 I’m interested in SOFTWARE Testing
-- 🌱 I’m currently learning Working IN RW INFOTECH
+- 👀 I’m interested in Software Testing
+- 🌱 I’m currently Working IN RW INFOTECH
 - 📫 How to reach me Rohit8it@gmail.com
-- ⚡ Testcase : ...www.rwit.io WEbsite Created BY ME 
+- ⚡ Testcase : ...www.rwit.io Website Created BY ME 
 
 <!---
 R0hit-hash/R0hit-hash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
